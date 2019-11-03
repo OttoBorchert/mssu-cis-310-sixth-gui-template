@@ -34,6 +34,7 @@ namespace SixthGUI
 
         private void getPlayerInfo(out string playerID, out string playerName)
         {
+            //This is me adding a comment, just to test the pull request functionality
             playerID = "";
             playerName = "";
             //Get the username out of the selected list item
